@@ -19,16 +19,19 @@ body{
     align-items: center;
 }
 
+#linkedin {
+
+    margin-bottom: 50px;
+}
+
 a{
     color: rgb(10, 10, 10);
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
-    border-radius:20px;
-    justify-content: right;
-    margin-left: -1300px;
+    margin-left: -650px;
     text-decoration: none;
-      
 }
+
 #toporosa{
     background-color:rgb(240, 120, 204);
     width: 100%;
